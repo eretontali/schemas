@@ -1,6 +1,6 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "$id": "https://raw.githubusercontent.com/eretontali/schemas/main/schemas/LogginStandardModel.schema.json",
+  "$id": "https://raw.githubusercontent.com/eretontali/schemas/v1.0.0/schemas/LogginStandardModel.schema.json",
   "title": "LogginStandardModel",
   "description": "Standard log event for multi-tenant pipeline (Processor → Firehose → OpenSearch/S3).",
   "type": "object",
